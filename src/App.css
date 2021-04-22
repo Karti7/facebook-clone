@@ -1,0 +1,79 @@
+body{
+  
+}
+
+.fb-logo{
+  margin-top: 150px;
+  margin-left: 150px;
+  border: none;
+  border-radius: 10px;
+}
+
+.para{
+    font-size: 25px;
+    margin-left: 190px;
+    margin-top: -40px;
+}
+
+.card{
+  padding: 10px 10px;
+  line-height: 1.35;
+  margin-left: 750px;
+  margin-top: -200px;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  box-shadow: 5px 5px 15px rgb(0 0 0 / 90%);
+  margin-right: 250px;
+  border-radius: 10px;
+  background-color: rgb(223, 219, 219);
+}
+
+.card2{
+  padding: 10px 5px;
+  width: 185%;
+  
+}
+
+
+.input{
+    border-radius: 5px;
+    display: block;
+    width: 50%;
+    height: 40px;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.btn{
+    border-radius: 5px;
+    width: 51%;
+    height: 40px;
+    cursor: pointer;
+    color: white;
+    background-color: #1877f2;
+    font-size: 20px;
+}
+
+.btn2{
+  border-radius: 5px;
+  margin-left: 75px;
+  margin-top: 40px;
+  width: 27%;
+  height: 40px;
+  cursor: pointer;
+  background-color: #42b72a;
+  color: white;
+  font-size: 15px;
+  
+}
+
+
+.forget{
+  margin-left: 90px;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+.forget:hover{
+  color: rgb(255, 38, 0);
+}
